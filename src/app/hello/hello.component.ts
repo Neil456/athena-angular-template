@@ -5,8 +5,7 @@ import { Component } from '@angular/core';
   standalone: true,
   template: `
     <div class="hello">
-      <h2>Hello Component</h2>
-      <p>This is an example component to demonstrate Dyad.sh Select UI to Edit feature.</p>
+      <p>Hello, this is a blank template for Athena Angular apps.</p>
     </div>
   `,
   styles: [`
